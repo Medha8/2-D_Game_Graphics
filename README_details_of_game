@@ -1,0 +1,28 @@
+This file tells the control of the game:
+
+To move the Boxes:
+Red Box: To move left: control + left arrow
+		 To move right: control + right arrow.
+Green Box: To move left: alt + left arrow.
+		   To move right: alt + right arrow.
+
+To move laser:
+Up: s
+Down: f
+Tilt up: press a
+Tilt down: press d
+
+Controlling the speed on blocks:
+To increase: n
+To decrease: m
+To shoot laser:
+Press space bar
+or click the left of mouse button.
+There is a mirror on the to reflect the laser light.
+
+Rules of the Game:
+To score 10 points, you have to collect the red bricks in red box and green in green blocks.
+If a black brick falls in any of the box then, you get negative 5 points.
+If you hit the black box with laser then you get +10 points, but if you hit red or green brick then you get -5 points.
+
+Hope you enjoy the game :)
